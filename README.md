@@ -1,9 +1,11 @@
 
-## 大家好，为了方便浏览，我将所有关于机器学习/深度学习的文章链接发布到这个汇总帖子。
+# 大家好，为了方便浏览，我将所有关于机器学习/深度学习的文章链接发布到这个汇总帖子。
 
 
-学习笔记：
+## 机器学习基石篇
 
+
+### 学习笔记
  [林轩田--机器学习技法--SVM笔记1--线性支持向量机(linear+SVM)](https://github.com/rikichou/linear-svm)
 
  [林轩田--机器学习技法--SVM笔记2--对偶支持向量机（dual+SVM）](https://github.com/rikichou/dual-svm)
@@ -18,18 +20,24 @@
 
 
 
-视频/资料：
+### 视频/资料：
 
  [林轩田老师机器学习视频YouTube链接(因为老师会在YouTube答疑，所以选择YouTube)](https://www.youtube.com/user/hsuantien/playlists)
 
  
 
-讲义：
+### 讲义：
 
 [林轩田机器学习技法/基石讲义](https://www.csie.ntu.edu.tw/~htlin/mooc/)
 
 
 
- 课后习题:
+ ### 课后习题:
 
  [林轩田机器学习技法/基石课后习题](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
+
+## udacity 毕业项目
+
+
+[dog vs cat](https://github.com/rikichou/final)
+
