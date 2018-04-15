@@ -2,7 +2,7 @@
 # 大家好，为了方便浏览，我将所有关于机器学习/深度学习的文章链接发布到这个汇总帖子。
 
 
-## 机器学习基石篇
+## 机器学习技法篇
 
 
 ### 学习笔记
@@ -18,7 +18,15 @@
 
  [林轩田--机器学习技法--SVM笔记6--支持向量回归（Support+Vector+Regression）](https://github.com/rikichou/support_vector_regression) 
 
-
+ [林轩田--机器学习技法--集成学习笔记1--Blending and Bagging](https://github.com/rikichou/blending_and_bagging)
+ 
+ [林轩田--机器学习技法--集成学习笔记2--Adaptive Boosting](https://github.com/rikichou/adaptiva_boosting)
+ 
+ [林轩田--机器学习技法--集成学习笔记3--Decession Tree](https://github.com/rikichou/decession_tree)
+ 
+ [林轩田--机器学习技法--集成学习笔记4--Random Forests](https://github.com/rikichou/random_forests)
+ 
+ [林轩田--机器学习技法--集成学习笔记5-Gradient Boosted Decision Tree](https://github.com/rikichou/gbdt)
 
 ### 视频/资料：
 
