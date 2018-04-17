@@ -44,8 +44,11 @@
 
  [林轩田机器学习技法/基石课后习题](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 
-## udacity 毕业项目
+## 深度学习项目
 
 
-[dog vs cat](https://github.com/rikichou/final)
+[图像识别：dog vs cat](https://github.com/rikichou/final)
 
+## 机器学习项目
+
+[为慈善机构寻找捐助者：finding donors](https://github.com/rikichou/finding_donors)
