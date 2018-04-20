@@ -49,6 +49,10 @@
 
 [图像识别：dog vs cat](https://github.com/rikichou/final)
 
+[情感分析：emojify](git@github.com:rikichou/emojify.git)
+
 ## 机器学习项目
 
 [为慈善机构寻找捐助者：finding donors](https://github.com/rikichou/finding_donors)
+
+[创建客户细分：customer segments](https://github.com/rikichou/customer_segments)
