@@ -49,7 +49,8 @@
 
 [图像识别：dog vs cat](https://github.com/rikichou/final)
 
-[情感分析：emojify](git@github.com:rikichou/emojify.git)
+[情感分析：emojify](https://github.com/rikichou/emojify)
+
 
 ## 机器学习项目
 
