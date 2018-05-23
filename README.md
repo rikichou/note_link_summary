@@ -46,6 +46,8 @@
 
 ## 深度学习项目
 
+[基于YOLO的人脸识别闸机](https://github.com/rikichou/yolo)
+
 [驾驶员分心驾驶检测：distracted driving detection](https://github.com/rikichou/distracted-driving-detection)
 
 [图像识别：dog vs cat](https://github.com/rikichou/final)
