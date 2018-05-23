@@ -2,6 +2,23 @@
 # 为了方便浏览，将部分的ML、DL的项目以及笔记链接做一个汇总
 
 
+## 深度学习项目
+
+[基于YOLO的人脸识别闸机](https://github.com/rikichou/yolo)
+
+[驾驶员分心驾驶检测：distracted driving detection](https://github.com/rikichou/distracted-driving-detection)
+
+[图像识别：dog vs cat](https://github.com/rikichou/final)
+
+[情感分析：emojify](https://github.com/rikichou/emojify)
+
+
+## 机器学习项目
+
+[为慈善机构寻找捐助者：finding donors](https://github.com/rikichou/finding_donors)
+
+[创建客户细分：customer segments](https://github.com/rikichou/customer_segments)
+
 ## 机器学习技法
 
 
@@ -43,20 +60,3 @@
  #### 课后习题:
 
  [林轩田机器学习技法/基石课后习题](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
-
-## 深度学习项目
-
-[基于YOLO的人脸识别闸机](https://github.com/rikichou/yolo)
-
-[驾驶员分心驾驶检测：distracted driving detection](https://github.com/rikichou/distracted-driving-detection)
-
-[图像识别：dog vs cat](https://github.com/rikichou/final)
-
-[情感分析：emojify](https://github.com/rikichou/emojify)
-
-
-## 机器学习项目
-
-[为慈善机构寻找捐助者：finding donors](https://github.com/rikichou/finding_donors)
-
-[创建客户细分：customer segments](https://github.com/rikichou/customer_segments)
